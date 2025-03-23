@@ -5,7 +5,8 @@
 #rabbitmq:3.12.0-management
 #mysql:5.7.42
 #nacos/nacos-server:v2.3.2
-xubiaolin/zerotier-planet:latest
+#xubiaolin/zerotier-planet:latest
+natpierce/natpierce:latest
 #registry
 #支持指定架构
 --platform=linux/arm64
