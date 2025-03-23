@@ -9,4 +9,4 @@
 natpierce/natpierce:latest
 #registry
 #支持指定架构
---platform=linux/arm64
+#--platform=linux/arm64
