@@ -4,7 +4,8 @@
 #xhofe/alist:latest
 #syncthing/syncthing:latest
 #lejianwen/rustdesk-api:latest
-steamcmd/steamcmd:latest
+#steamcmd/steamcmd:latest
+ghcr.io/azicen/clash-verge-rev:latest
 #rabbitmq:3.12.0-management
 #mysql:5.7.42
 #nacos/nacos-server:v2.3.2
